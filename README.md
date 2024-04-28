@@ -64,7 +64,7 @@ Home prices in all three states continue to appreciate. Even in California despi
 
 ### Are certain states more impacted by migration and inflation than others? 
 
-Based on our findings, all states were impacted by migration. Five states stood out as especially significant in terms of net migration. Those states with the greatest change in net migration were California, Florida, Texas, New York, and Illinois. We selected the top three for further study. We then looked at the inflation in the three states and observed that they were trending consistantly with the US national average inflation.
+Based on our findings, all states were impacted by migration. Five states stood out as especially significant in terms of net migration. Those states with the greatest change in net migration were: California, Florida, Texas, New York, and Illinois. We selected the top three for further study. We then looked at the inflation in the three states and observed that they were trending consistantly with the US national average inflation.
 
 As the graph shows, the five most impacted states were Florida and Texas with the highest immigration, and California, New York, and Illinois with the highest emmigration. (listed in order of magnitude)
 
